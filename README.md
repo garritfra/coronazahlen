@@ -1,4 +1,4 @@
-# Coronazahlen von Heute
+# Heutige Coronazahlen in Deutschland
 
 `coronazahlen.py` listet den 7-tages-Inzidenz Wert aller Landkreise Deutschlands,
 und speichert diesen in eine Excel-Tabelle.
